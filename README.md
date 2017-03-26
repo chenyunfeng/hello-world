@@ -1,4 +1,4 @@
 # hello-world
 First test repository
 
-hello
+hello-world
